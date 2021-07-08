@@ -139,9 +139,9 @@ The base elements described above are worth 19 of the 25 marks. For the remainin
 * Add shaders to implement NPR shading (2..6 marks)
 * Add level-of-detail support for rendering distant objects with lower-resolution models (2..6 marks)
 * BSP trees for hidden surface removal for terrain rendering (8 marks)
-* Add Portal style portals.
-* Portals you can walk through (4 marks)
-* Portals you can walk and see through (8 marks)
+* Add [Portal style portals](https://en.wikipedia.org/wiki/Portal_(video_game)).
+   * Portals you can walk through (4 marks)
+   * Portals you can walk and see through (8 marks)
 * Implement the terrain as Bezier or NURBS surfaces (8 marks)
 
 The screenshot
