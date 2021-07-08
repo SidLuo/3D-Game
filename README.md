@@ -70,7 +70,7 @@ A 5x5 terrain with altitudes:
 
 Will create a mesh that looks like this (this may look different depending on the angle/position you view it from and exactly how you set up your camera). This is taken from basically straight ahead at around (0,0.5,9) in world co-ordinates and with a perspective camera:
 
-**Note**:This screenshot was taken with back face culling on
+**Note**: This screenshot was taken with back face culling on
 
 ![alt text](https://github.com/SidLuo/3D-Game/blob/main/terrainMesh.png "A Sample Terrain Mesh")
 
