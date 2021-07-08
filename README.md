@@ -72,7 +72,7 @@ Will create a mesh that looks like this (this may look different depending on th
 
 **Note**:This screenshot was taken with back face culling on
 
-![alt text](https://www.cse.unsw.edu.au/~cs3421/17s2/assignments/terrainMesh.PNG "A Sample Terrain Mesh")
+![alt text](https://github.com/SidLuo/3D-Game/blob/main/terrainMesh.png "A Sample Terrain Mesh")
 
 Note: for the assignment you will shade and texture your terrain and make it look pretty. We are just showing the lines here so you can clearly see the geometry. It is up to you whether you implement your terrain using face nomals or vertex normals.
 
@@ -146,7 +146,7 @@ The base elements described above are worth 19 of the 25 marks. For the remainin
 
 The screenshot
 
-![alt text](https://www.cse.unsw.edu.au/~cs3421/17s2/assignments/test1.PNG "A Screenshot for Test 1")
+![alt text](https://github.com/SidLuo/3D-Game/blob/main/test1.png "A Screenshot for Test 1")
 
 
 is the shot of Test 1. The road goes over the edges of the terrain.
