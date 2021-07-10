@@ -154,10 +154,10 @@ is the shot of Test 1. The road goes over the edges of the terrain.
 
 
 # The Code
-We've completed all the basic tasks, and three extensions.
+I've completed all the basic tasks, and three extensions.
 
-In the first and second extensions we did, we've built a complex model which is a human face with a hat and is capable of turning on the torch when night mode is on. And codes for these two extensions can be found in Avatar.java and Lighting.java under ass2.spec package.
+In the first and second extensions, I've built a complex model which is a human face with a hat and is capable of turning on the torch when night mode is on. And codes for these two extensions can be found in Avatar.java and Lighting.java under ass2.spec package.
 
 In the third extension, the sun is able to move along with time and light change. And code for this part can be found in Lighting.java under ass2.spec package.
 
-To test our extensions, we created 2 level files which are "test8.json" and "test9.json", and they can be found under levels folder in this project. After setting "levels/input8.json" or "levels/input9.json" as the argument for main function in Game.java, our code will be running as expected. 
+To test our extensions, I created 2 level files which are "test8.json" and "test9.json", and they can be found under levels folder in this project. After setting "levels/input8.json" or "levels/input9.json" as the argument for main function in Game.java, our code will be running as expected. 
